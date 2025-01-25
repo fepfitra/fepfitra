@@ -3,9 +3,8 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fitrafep) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fitra_fep) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fitra-fep-417049199/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@fitra_71809) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/fitrafep) 
 
 # 💻 Tech Stack:
-[![roadmap.sh](https://roadmap.sh/card/tall/6793d7d132284498bcba575e?variant=dark&roadmaps=cpp%2Crust%2Cgolang%2Cpython)](https://roadmap.sh)
-
-[![roadmap.sh](https://roadmap.sh/card/tall/6793d7d132284498bcba575e?variant=dark&roadmaps=backend%2Ccomputer-science%2Ccyber-security%2Clinux)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/6793d7d132284498bcba575e?variant=dark&roadmaps=cpp%2Crust%2Cgolang%2Cpython)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/6793d7d132284498bcba575e?variant=dark&roadmaps=backend%2Ccomputer-science%2Ccyber-security%2Clinux)](https://roadmap.sh)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=fepfitra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
