@@ -5,6 +5,8 @@
 # 💻 Tech Stack:
 [![roadmap.sh](https://roadmap.sh/card/tall/6793d7d132284498bcba575e?variant=dark&roadmaps=cpp%2Crust%2Cgolang%2Cpython)](https://roadmap.sh)
 
+[![roadmap.sh](https://roadmap.sh/card/tall/6793d7d132284498bcba575e?variant=dark&roadmaps=backend%2Ccomputer-science%2Ccyber-security%2Clinux)](https://roadmap.sh)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=fepfitra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fepfitra&theme=dark&hide_border=false)<br/>
