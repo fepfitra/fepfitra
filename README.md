@@ -4,6 +4,7 @@
 
 # 💻 Tech Stack:
 [![roadmap.sh](https://roadmap.sh/card/tall/6793d7d132284498bcba575e?variant=dark&roadmaps=cpp%2Crust%2Cgolang%2Cpython)](https://roadmap.sh)
+
 [![roadmap.sh](https://roadmap.sh/card/tall/6793d7d132284498bcba575e?variant=dark&roadmaps=backend%2Ccomputer-science%2Ccyber-security%2Clinux)](https://roadmap.sh)
 
 # 📊 GitHub Stats:
