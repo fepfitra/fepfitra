@@ -1,4 +1,4 @@
-This is my main cleaner account for Flex. For more Flex content, I have another [experimental project here](https://codeberg.org/fepfitra)
+This is my main cleaner account for Flex. For more Flex content, I have another [experimental projects here](https://codeberg.org/fepfitra)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fitrafep) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fitra_fep) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fitra-fep-417049199/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@fitra_71809) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/fitrafep) 
