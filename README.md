@@ -8,6 +8,11 @@ This is my main cleaner account for Flex. For more Flex content, I have another 
 
 # Wakatime:
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 # 📊 GitHub Stats:
