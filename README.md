@@ -10,7 +10,10 @@ This is my main cleaner account for Flex. For more Flex content, I have another 
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other      2 hrs 33 mins   █████████████▓░░░░░░░░░░░   55.24 %
+Typst      2 hrs 4 mins    ███████████▒░░░░░░░░░░░░░   44.70 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+pdf        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
