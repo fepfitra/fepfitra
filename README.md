@@ -10,11 +10,11 @@ This is my main cleaner account for Flex. For more Flex content, I have another 
 <!--START_SECTION:waka-->
 
 ```txt
-Other        22 hrs 55 mins  ████████████████░░░░░░░░░   64.40 %
-Rust         7 hrs 22 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.71 %
-Markdown     3 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
-Typst        1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-Dart         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Other        23 hrs 58 mins  ███████████████▒░░░░░░░░░   61.13 %
+Rust         10 hrs 15 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.16 %
+Markdown     2 hrs 35 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+Typst        1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+Python       22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
 
 <!--END_SECTION:waka-->
