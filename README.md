@@ -10,11 +10,11 @@ This is my main cleaner account for Flex. For more Flex content, I have another 
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         40 mins               ████████████▓░░░░░░░░░░░░   50.86 %
-Markdown     13 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.93 %
-Lua          10 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
-JSON         4 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
-env          3 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+Python       42 mins               ██████████▓░░░░░░░░░░░░░░   43.14 %
+Bash         18 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.71 %
+Markdown     17 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.49 %
+Makefile     7 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
+JSON         4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
 ```
 
 <!--END_SECTION:waka-->
