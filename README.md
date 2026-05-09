@@ -10,11 +10,11 @@ This is my main cleaner account for Flex. For more Flex content, I have another 
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         18 hrs 57 mins        █████████████████▓░░░░░░░   70.19 %
-TypeScript   2 hrs 53 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
-Astro        1 hr 17 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-Bash         1 hr 8 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
-YAML         56 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Rust         19 hrs 1 min          ██████████████░░░░░░░░░░░   56.23 %
+YAML         4 hrs 33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 %
+TypeScript   3 hrs 10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
+Docker       1 hr 24 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+Astro        1 hr 17 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
 ```
 
 <!--END_SECTION:waka-->
