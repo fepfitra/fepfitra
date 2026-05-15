@@ -8,15 +8,87 @@ This is my main cleaner account for Flex. For more Flex content, I have another 
 
 # Wakatime:
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C788%20hrs%2027%20mins-blue?style=flat)
 
-```txt
-YAML         4 hrs 50 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.06 %
-TypeScript   2 hrs 23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
-Rust         1 hr 48 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
-rhai         1 hr 26 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
-Docker       1 hr 24 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 1.8 MB Used in GitHub's Storage 
+ > 
+> 🏆 772 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 60 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1177 commits        ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
+🌆 Daytime                1656 commits        ████████░░░░░░░░░░░░░░░░░   33.93 % 
+🌃 Evening                1803 commits        █████████░░░░░░░░░░░░░░░░   36.94 % 
+🌙 Night                  245 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   715 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Tuesday                  1032 commits        █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
+Wednesday                720 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Thursday                 626 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Friday                   508 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+Saturday                 601 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Sunday                   679 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+YAML                     5 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   32.71 % 
+rhai                     1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Docker                   1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Bash                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Markdown                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+
+🔥 Editors: 
+Neovim                   16 hrs 6 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+catata-monorepo          5 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   31.30 % 
+Unknown Project          2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+pitura-catata            2 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+fork                     2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+catata-app               1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+
+💻 Operating System: 
+Linux                    16 hrs 6 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Rust** 
+
+```text
+Rust                     13 repos            ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+C                        6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Typst                    5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Dart                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Astro                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/fepfitra/fepfitra/main/assets/bar_graph.png)
+
+
+ Last Updated on 15/05/2026 04:11:49 UTC
 <!--END_SECTION:waka-->
 
 # 📊 GitHub Stats:
