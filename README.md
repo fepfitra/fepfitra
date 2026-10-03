@@ -1,4 +1,14 @@
-This is my main cleaner account for Flex. For more Flex content, I have another [experimental projects here](https://codeberg.org/fepfitra)
+# Fitriansyah Eka Putra (Fitra)
+
+Security-focused developer — UGM Computer Science, 2026. CTF player (ASGama, OmahTI), Rust + TypeScript, self-hosted infrastructure.
+
+**Now:** API/web security research, bug bounty, CI/CD security pipelines.
+
+🔗 [fitrafep.com](https://fitrafep.com) · [blog](https://fitrafep.com/blog) · [LinkedIn](https://linkedin.com/in/fitra-fep-417049199/)
+
+- ☁️ **AWS Certified Cloud Practitioner** (CLF-C02, 2026–2029)
+- 🎯 **CAPIJ** — Certified API Hacking Junior
+- 🛠️ Led OmahTI Cyber Security · recurring CTF player
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fitrafep) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fitra_fep) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fitra-fep-417049199/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@fitrafep)
